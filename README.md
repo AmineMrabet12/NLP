@@ -206,5 +206,9 @@ For future text classification tasks, we would:
 <img src="https://avatars.githubusercontent.com/u/149672351?s=96&v=4" alt="Mohamed Amine Mrabet" style="width: 50px; height: 50px; border-radius: 50%;">
 </a>
 
+- Saad Khalid
+- Sangeeth Sajeev menon
+- Mohamed Amine Mrabet
+
 ## Conclusion
 This project explored different deep learning models for emotion classification. While BERT provided the highest accuracy, its high computational demand led us to switch to DistilBERT. DistilBERT proved to be an efficient alternative, balancing performance and resource constraints.
