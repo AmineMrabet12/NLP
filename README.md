@@ -181,13 +181,8 @@ For future text classification tasks, we would:
 - **Optimize model architectures** to improve performance without excessive resource use.
 - **Leverage cloud computing or GPUs** for training larger models.
 
-## Installation & Usage
-### Installation
-```bash
-pip install -r requirements.txt
-```
 
-### Used Technologies
+## Used Technologies
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.18.0-b?logo=tensorflow&logoColor=)
 ![Transformers](https://img.shields.io/badge/Transformers-4.48.0-b?logo=huggingface&logoColor=)
