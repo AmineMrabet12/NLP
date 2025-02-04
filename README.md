@@ -182,19 +182,13 @@ For future text classification tasks, we would:
 - **Leverage cloud computing or GPUs** for training larger models.
 
 ## Installation & Usage
-### Prerequisites
-Ensure you have the following installed:
-- Python 3.8+
-- TensorFlow
-- Transformers (Hugging Face)
-- scikit-learn
-- Pandas
-- Matplotlib & Seaborn
-
 ### Installation
 ```bash
 pip install -r requirements.txt
 ```
+
+### Used Technologies
+
 
 ## Conclusion
 This project explored different deep learning models for emotion classification. While BERT provided the highest accuracy, its high computational demand led us to switch to DistilBERT. DistilBERT proved to be an efficient alternative, balancing performance and resource constraints.
