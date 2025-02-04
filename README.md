@@ -41,6 +41,35 @@ The dataset used for training and testing consists of textual data labeled with 
 
 Each file contains text samples with corresponding emotion labels.
 
+### Data Exploration
+<p align="center">
+    <img
+        src="images/train_dist.png"
+        alt="Project architecture"
+    />
+</p>
+
+<p align="center">
+    <img
+        src="images/cloud_train.png"
+        alt="Project architecture" 
+    />
+</p>
+
+<p align="center">
+    <img
+        src="images/vocab.png"
+        alt="Project architecture"
+    />
+</p>
+
+<p align="center">
+    <img
+        src="images/max_vocab.png"
+        alt="Project architecture"
+    />
+</p>
+
 ## Training Process
 1. **Data Preprocessing:**
    - Read and merge datasets.
