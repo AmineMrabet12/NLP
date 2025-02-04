@@ -2,9 +2,9 @@
 
 ## Project Overview
 This project focuses on emotion classification using different deep learning models, including:
-- Fully Connected Neural Network (ANN)
-- Recurrent Neural Network (LSTM)
-- Transformer-based models (BERT and DistilBERT)
+- Fully Connected Neural Network (ANN) `notebooks/1-Fully_Connected_NN.ipynb`
+- Recurrent Neural Network (LSTM) `notebooks/2-Recurrent_NN_LSTM.ipynb`
+- Transformer-based models (BERT and DistilBERT) `notebooks/3-Pretrained_model.ipynb`
 
 The dataset consists of textual data labeled with emotions. The objective is to classify the text into different emotion categories using deep learning techniques.
 
@@ -189,9 +189,27 @@ pip install -r requirements.txt
 
 ### Used Technologies
 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.18.0-b?logo=tensorflow&logoColor=)
+![Transformers](https://img.shields.io/badge/Transformers-4.48.0-b?logo=huggingface&logoColor=)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.5.2-b?logo=scikit-learn&logoColor=)
+
+![NumPy](https://img.shields.io/badge/NumPy-1.26.4-blue?logo=numpy&logoColor=)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.9.3-blue?logo=python&logoColor=)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.13.2-blue?logo=python&logoColor=)
+![Pandas](https://img.shields.io/badge/Pandas-2.2.3-blue?logo=pandas&logoColor=)
+![WordCloud](https://img.shields.io/badge/WordCloud-1.9.4-blue?logo=python&logoColor=)
+
+## Contributers
+
+<a href="https://github.com/Sa7800111" target="_blank">
+<img src="https://avatars.githubusercontent.com/u/174697950?v=4" alt="Sangeeth Sajeev menon" style="width: 50px; height: 50px; border-radius: 50%;">
+</a>
+<a href="https://github.com/saadkhalid-git" target="_blank">
+<img src="https://avatars.githubusercontent.com/u/100916071?v=4" alt="Saad Khalid" style="width: 50px; height: 50px; border-radius: 50%;">
+</a>
+<a href="https://github.com/AmineMrabet12" target="_blank">
+<img src="https://avatars.githubusercontent.com/u/149672351?s=96&v=4" alt="Mohamed Amine Mrabet" style="width: 50px; height: 50px; border-radius: 50%;">
+</a>
 
 ## Conclusion
 This project explored different deep learning models for emotion classification. While BERT provided the highest accuracy, its high computational demand led us to switch to DistilBERT. DistilBERT proved to be an efficient alternative, balancing performance and resource constraints.
-
----
-**Authors:** Mohamed Amine Mrabet & Team 🚀
